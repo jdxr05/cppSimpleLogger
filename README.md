@@ -1,0 +1,2 @@
+# cppSimpleLogger
+Simple C++ logger
